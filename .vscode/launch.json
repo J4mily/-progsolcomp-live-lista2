@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "Exercicio01",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "Exercicio02",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio03",
+            "request": "launch",
+            "mainClass": "Exercicio03",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio04",
+            "request": "launch",
+            "mainClass": "Exercicio04",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio05",
+            "request": "launch",
+            "mainClass": "Exercicio05",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio06",
+            "request": "launch",
+            "mainClass": "Exercicio06",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio07",
+            "request": "launch",
+            "mainClass": "Exercicio07",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio08",
+            "request": "launch",
+            "mainClass": "Exercicio08",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio09",
+            "request": "launch",
+            "mainClass": "Exercicio09",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio10",
+            "request": "launch",
+            "mainClass": "Exercicio10",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio11",
+            "request": "launch",
+            "mainClass": "Exercicio11",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio12",
+            "request": "launch",
+            "mainClass": "Exercicio12",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio13",
+            "request": "launch",
+            "mainClass": "Exercicio13",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio14",
+            "request": "launch",
+            "mainClass": "Exercicio14",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio15",
+            "request": "launch",
+            "mainClass": "Exercicio15",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio16",
+            "request": "launch",
+            "mainClass": "Exercicio16",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio17",
+            "request": "launch",
+            "mainClass": "Exercicio17",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio18",
+            "request": "launch",
+            "mainClass": "Exercicio18",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio19",
+            "request": "launch",
+            "mainClass": "Exercicio19",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio20",
+            "request": "launch",
+            "mainClass": "Exercicio20",
+            "projectName": "Lista_21q_97938e5f"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio21",
+            "request": "launch",
+            "mainClass": "Exercicio21",
+            "projectName": "Lista_21q_97938e5f"
+        }
+    ]
+}
