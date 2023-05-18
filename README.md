@@ -81,9 +81,10 @@ superiores a -1000. (utilize do / while)
 **18.** Faça um programa que determine o fatorial de um número.
 Para este problema, tem-se como entrada o valor do número do
 qual se deseja calcular o fatorial. O fatorial de 0 é igual a
-**__1. O fatorial de um número N (N!) é definido conforme a seguir
+
+__1. O fatorial de um número N (N!) é definido conforme a seguir
 (utilize for):
-N! = 1 * 2 * 3 * 4 * ... * (N-1) * N__**
+N! = 1 * 2 * 3 * 4 * ... * (N-1) * N__
 
 **19.** Um determinado gás duplica seu volume a cada segundo.
 Dada um volume inicial, em centímetros cúbicos, digitado pelo
