@@ -1,5 +1,6 @@
-**##Problemas que foram resolvidos acima:**
-+**1.** Faça um programa que leia dois números A e B e imprima o maior
+##Problemas que foram resolvidos acima:
+
+**1.** Faça um programa que leia dois números A e B e imprima o maior
 deles.
 
 **2.** Construa um programa que receba como entrada três valores A, B
